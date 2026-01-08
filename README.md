@@ -20,7 +20,7 @@ This project is a Streamlit web application that allows users to:
   - Produces realistic-style fake news paragraphs.
   - Clean output without non-printable characters.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -64,7 +64,6 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
----
 
 ## ▶️ Run the Application
 
