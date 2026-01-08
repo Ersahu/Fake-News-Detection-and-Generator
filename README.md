@@ -6,7 +6,7 @@ This project is a Streamlit web application that allows users to:
 - 🔍 **Detect** whether a news article is real or fake using a machine learning model.
 - 🤖 **Generate** realistic-looking fake news using a text generation model.
 
----
+
 
 ## 🚀 Features
 
@@ -30,7 +30,6 @@ This project is a Streamlit web application that allows users to:
 - **Transformers (Hugging Face)** for text generation  
 - **Joblib** for model loading  
 
----
 
 ## 📂 Project Structure
 
@@ -44,7 +43,7 @@ Fake-News-Detection-and-Generator/
 └── README.md           # Project documentation
 ```
 
----
+
 
 ## ⚙️ Installation & Setup
 
@@ -78,7 +77,6 @@ Your app will open in the browser at:
 http://localhost:8501
 ```
 
----
 
 ## 🧪 How It Works
 
@@ -93,14 +91,12 @@ http://localhost:8501
 1. Click **“Generate Fake News”**.
 2. A fake news paragraph is generated using GPT-2.
 
----
 
 ## ⚠️ Disclaimer
 
 This project is created **for educational purposes only**.  
 The fake news generator is meant to demonstrate AI capabilities and should **not be used to spread misinformation**.
 
----
 
 ## 📌 Future Improvements
 
@@ -109,9 +105,17 @@ The fake news generator is meant to demonstrate AI capabilities and should **not
 - Use more advanced NLP models (BERT, RoBERTa)  
 - Add confidence scores for predictions  
 
----
 
-## 👨‍💻 Author
 
-Developed by **King King**  
-B.Tech CSE (AI & ML)
+## 🤝 Contributions
+We welcome pull requests! For major changes, please open an issue to discuss what you'd like to improve or add.
+
+## 📧 Contact
+**Developer**: Vaibhav
+
+**Email**: sahuvaibhav064@gmail.com
+
+**LinkedIn**: https://www.linkedin.com/in/vaibhav-chaudhary-615712272/
+
+## 📜 License
+MIT License © 2025 Vaibhav
